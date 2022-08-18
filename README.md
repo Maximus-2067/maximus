@@ -1,2 +1,1 @@
-# oragon
-my personal portfolio website
+# portfolio
