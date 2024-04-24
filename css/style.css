@@ -534,6 +534,7 @@ img{
 .about__description{
     text-align: center;
     margin-bottom: var(--mb-2-5);
+    
     align-items: center;
     color: var(--text-color);
 }
