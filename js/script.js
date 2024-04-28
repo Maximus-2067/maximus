@@ -73,7 +73,7 @@ console.log("Remove menu profile is working!")
 
 
 new Typewriter('#typewriter', {
-  strings: ['Oluwaremi Mayowa Bernard',"Software Engineer", 'Freelance Mern-Stack Developer', 'Programmer ', 'and Mechatronics-Engineer', ''],
+  strings: ['Oluwaremi Mayowa Bernard',"Back-end Developer", 'Freelance Mern-Stack Developer', 'Mechatronics-Engineer', ''],
   autoStart: true,
   loop: true,
   cursor: "|"
@@ -83,9 +83,10 @@ console.log("Typewriter effect is working!")
 //===================================== Portfolio Swiper =========================
 
 var swiper = new Swiper(".blog-slider", {
-    spaceBetween: 30,
+    spaceBetween: 10,
     effect: 'fade',
     loop: true,
+    autoStart: true,
     mousewheel:{
         invert: false,
     },
