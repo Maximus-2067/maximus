@@ -359,7 +359,7 @@ img{
 /* ===================== HOME ================== */
 
 .home{
-    height: 70vh;
+    height: 80vh;
     align-content: space-between;
     margin-top: var(--mb-3);
     padding-bottom: 0;
@@ -431,17 +431,17 @@ img{
 
 .home__subtitle{
   text-align: center;
-  font-size: var(--h3-font-size);
+  font-size: var(--h4-font-size);
   color: var(--text-color);
   font-weight: var(--font-medium);
-  margin-bottom: var(--mb-1);
+  margin-bottom: var(--mb-2);
   padding: 1rem 1.5rem 1rem 1.5rem;
   margin-left: var(--mb-0-75);
 }
 
 #typewriter{
     margin-top: var(--mb-1);
-    margin-bottom: var(--mb-2);
+    /* margin-bottom: var(--mb-1); */
 }
 
 .Typewriter__wrapper{
